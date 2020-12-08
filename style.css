@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(192, 86, 192);
+}
+#text{
+    width: 500px;
+    margin: 300px auto;
+    font-weight: bold;
+    font-family: Roboto, sans-serif;
+    font-size: 30px;
+}
